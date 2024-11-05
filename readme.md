@@ -103,9 +103,6 @@ jupyter notebook Project_2_Predictive_Analysis_in_diabetes.ipynb
 3. Implement cross-validation for more robust evaluation
 4. Consider feature engineering to create more predictive variables
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
@@ -117,6 +114,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com]
+Your Name - [princechauhan220103@gmail.com]
 
 Project Link: [https://github.com/yourusername/diabetes-prediction]
